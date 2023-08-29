@@ -8,6 +8,7 @@
 ### Scrum-syklin yleiskuvaus
 
 ### Sprintit
+- Olisiko viikko hyvä sprintin pituus?
 
 ### Työjonot
 
