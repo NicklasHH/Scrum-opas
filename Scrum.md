@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##1 moi
 
 =======
@@ -16,3 +17,6 @@
 ### Kokoukset
 
 ### Miksi Scrum toimii?
+=======
+Moikka!
+>>>>>>> featTest
