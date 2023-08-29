@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 ##1 moi
 
-## Nyt näkyy täälläkin develop-haara. 
 =======
 # Scrum-ohje
 
@@ -17,4 +16,3 @@
 ### Kokoukset
 
 ### Miksi Scrum toimii?
->>>>>>> origin/develop
