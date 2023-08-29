@@ -1,9 +1,13 @@
-#1 Scrum ohjeistus
+# Scrum-ohje
 
-##2 Otsikko
+## Scrum-syklin yleiskuvaus
 
-##2 Otsikko
+## Sprintit
 
-##2 Otsikko
+## Työjonot
 
-##2 Otsikko
+## Roolit
+
+## Kokoukset
+
+## Miksi Scrum toimii?
