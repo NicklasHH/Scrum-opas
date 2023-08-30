@@ -3,28 +3,34 @@ Scrum on laajasti ohjelmistokehityksessä käytetty ketterä kehitysmenetelmä.
 
 ### Scrum-syklin yleiskuvaus
 
-- Kehitysjohjonosta valitaan tehtävät, eli sprintin tavoitteet
+1. Kehitysjohjonosta valitaan tehtävät, eli sprintin tavoitteet
 
-- Sprintti alkaa ja valitut tehtävät suoritetaan
+2. Sprintti alkaa ja valitut tehtävät suoritetaan
 
-- Tarkastetaan suoritetut tehtävät, vastaavatko ne tarpeita
+3. Tarkastetaan suoritetut tehtävät, vastaavatko ne tarpeita
 
-- Arvoidaan asiat, mitä voitaisiin parantaa ja mitkä asiat sujuivat hyvin
+4. Arvoidaan asiat, mitä voitaisiin parantaa ja mitkä asiat sujuivat hyvin
 
 ### Sprintit
-Projekti jaetaan pienempiin osiin, joita kutsutaan sprinteiksi. 
+Projekti jaetaan pienempiin osiin ja tehtäviin, joita kutsutaan sprinteiksi. 
 
-- Sprintit ovat lyhyitä ajanjaksoja, yleensä viikosta kahteen viikkoa ja niiden aikana tiimi työskentelee tietyille tavoitteille. 
+- Sprintit ovat lyhyitä ajanjaksoja, yleensä 2-4 viikkoa ja niiden aikana tiimi työskentelee saavuttaakseen tietyt tavoitteet
+
+- Scrum-tiimi suunnittelee, ohjelmoi ja testaa itsenäisesti tämän aikana ratkaisun
+
+- Sprinttejä suoritetaan niin kauan, kunnes projekti on saatu päätökseen tai aika/raha loppuvat projektilta
 
 ### Kehitysjono
-Kehitysjono on lista, missä on kehitettävät asiat laitettu tärkeysjärjestykseen, mitä valmis tuote tarvitsee.
+Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty tärkeysjärjestykseen, joten sitä seuraamalla tärkeimmät asiat valmistuvat ensimmäisenä.
+- Listan sisältö ja järjestys käydään säännöllisesti läpi
 - Ainoa lähde Scrum-tiimin työtehtäville
 
 ### Roolit
-**S**crum määrittelee selkeästi eri työroolit, joita ovat __Scrum-master, tiimi sekä tuoteomistaja__
+Scrum määrittelee selkeästi eri __työroolit__, joita ovat 
+**S**crum-master, **T**iimi sekä **T**uoteomistaja.
 
 ### Kokoukset
-Kokoukset ovat joka päivä samaan aikaan samassa paikassa. Näin varmistetaan projektin eteneminen, kommunikaatio sekä kokuuksien sisällyttäminen automaationa projektiin.
+Kokoukset ovat joka päivä samaan aikaan samassa paikassa. Näin varmistetaan projektin eteneminen, kommunikaatio sekä kokouksien sisällyttäminen automaationa projektiin.
 
 ### Miksi Scrum toimii?
 - Sprinttien ansiosta kehityksessä on aina projektin tärkeimmät osat
