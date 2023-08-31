@@ -1,12 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##1 moi
 
 =======
 =======
 >>>>>>> 058f3e62e5e1512a553c5fa610c6ee518f4b907a
 # Scrum-ohje
+=======
+# Scrum-ohjeistus
+>>>>>>> feature
 
 Scrum on laajasti ohjelmistokehityksessä käytetty projektinhallinnan viitekehys, joka auttaa tiimiä suoriutumaan projekteista sopeutuvasti, nopeasti ja itseohjautuvasti.
 
