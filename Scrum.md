@@ -43,7 +43,12 @@ Kehitusjonon tilannetta voidaan seurata Scrum taululla ja tilanne päivitetään
 
 Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
+<<<<<<< HEAD
 
+=======
+**S**crum-master
+- abcd
+>>>>>>> feature
 
 **T**iimi
 - abc
