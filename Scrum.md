@@ -27,7 +27,6 @@ Projekti jaetaan pienempiin osiin ja tehtäviin, joita kutsutaan sprinteiksi.
 
 - Sprinttejä suoritetaan niin kauan, kunnes projekti on saatu päätökseen tai aika/raha loppuvat projektilta
 
-
 ##### Miten sprintit toimivat tiimissämme
 
 - Sprintit ovat lähtökohtaisesti yhden viikon mittaisia
@@ -45,13 +44,10 @@ Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty t�
 - Listan sisältö ja järjestys käydään säännöllisesti läpi
 - Ainoa lähde Scrum-tiimin työtehtäville
 
-
 ##### Tiimimme kehitysjono tässä projektissa
 
 - Kehitysjonossa seuraavana toteutettava toiminnallisuus riippuu aina osin kyseisen viikon tehtävänannosta
 - Tiimi pyrkii Scrumin oppien mukaisesti myös pohtimaan mikä ominaisuus/toiminnallisuus tuottaisi eniten arvoa ja toteuttaa kehitysjonon sen mukaisesti
-
-
 
 ### Tyypillinen Scrum taulu
 
@@ -100,7 +96,6 @@ Päiväpalaverit ovat joka päivä samaan aikaan samassa paikassa. Näin varmist
 - Koska kyseessä on opiskelutoteutus, niin emme pidä palaveria päivittäin
 - Lyhyt palaveri pidetään joka oppitunnin jälkeen tiistaisin
 - Lyhyen palaverin aikana sovimme, että tarvitaanko useampi palaveri kyseisellä viikolla
-
 
 ### Miksi Scrum toimii?
 
