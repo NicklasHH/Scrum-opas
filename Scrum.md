@@ -1,22 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-##1 moi
-
-=======
-=======
->>>>>>> 058f3e62e5e1512a553c5fa610c6ee518f4b907a
-# Scrum-ohje
-=======
 # Scrum-ohjeistus
->>>>>>> feature
 
 Scrum on laajasti ohjelmistokehityksessä käytetty projektinhallinnan viitekehys, joka auttaa tiimiä suoriutumaan projekteista sopeutuvasti, nopeasti ja itseohjautuvasti.
 
 ### Scrum-syklin yleiskuvaus
-
-Scrum-menetelmän yleiskuvaus:
 
 1. Kehitysjohjonosta valitaan tehtävät, eli sprintin tavoitteet
 
@@ -57,16 +43,8 @@ Kehitusjonon tilannetta voidaan seurata Scrum taululla ja tilanne päivitetään
 
 Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
-<<<<<<< HEAD
-### Miksi Scrum toimii?
-Moikka!
-=======
-<<<<<<< HEAD
-
-=======
 **S**crum-master
 - abcd
->>>>>>> feature
 
 **T**iimi
 - abc
@@ -80,11 +58,6 @@ Moikka!
 Päiväpalaverit ovat joka päivä samaan aikaan samassa paikassa. Näin varmistetaan projektin eteneminen, kommunikaatio sekä kokouksien sisällyttäminen automaationa projektiin.
 
 ### Miksi Scrum toimii?
-<<<<<<< HEAD
-=======
-Moikka!
->>>>>>> featTest
-=======
 
 - Sprinttien ansiosta kehityksessä on aina projektin tärkeimmät osat
 
@@ -94,5 +67,3 @@ Moikka!
 
 Lisätietoja: [`scrumguides.org`](https://scrumguides.org/)
 Tai vaihtoehtoisesti: https://scrumguides.org/
->>>>>>> 58aa36c862bb19a8cda9efca30d5d5d6f4428d3d
->>>>>>> 058f3e62e5e1512a553c5fa610c6ee518f4b907a
