@@ -2,6 +2,8 @@
 
 ### Scrum-syklin yleiskuvaus
 
+Scrum-menetelmän yleiskuvaus.
+
 ### Sprintit
 
 ### Työjonot
@@ -11,3 +13,4 @@
 ### Kokoukset
 
 ### Miksi Scrum toimii?
+Moikka!
