@@ -74,15 +74,22 @@ Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 - Suunnittelee, perehdyttää ja ohjeistaa
 - Kommunikoi tuoteomistajan kanssa, auttaa tiimiä ja tuoteomistajaa ymmärtämään toisiaan
 
-**T**iimi
+**K**ehittäjä
 
 - Keskeisin osa Scrumia
-- Pieni joukko ihmisiä, joka koostuu yhdestä Scrum-masterista, yhdestä tuoteomistajasta ja useasta kehittäjästä
 - Vastuussa tuotteeseen liittyvistä asioista kuten yhteistyö, ylläpito, testaus, tiedonhaku ja kehitys
 
 **T**uoteomistaja
 
-- Tuoteomistajana on kurssin aikana opettaja
+- Tuoteomistaja pyrkii maksimoimaan tuotteen ja kehitysytiimin työn arvoa
+- Hänen tehtäviin kuuluu myös tuotteen laadun ja toiminnallisuuden tarkastus, jotta se vastaa asiakkaan vaatimuksia
+- Scrum-tiimissä tulee olla vain yksi tuoteomistaja ja sitä ei pidä sekoittaa Scrum Master -roolin kanssa
+
+##### Roolien jakautuminen tiimissämme
+
+- Tuoteomistajana kurssin aikana toimii opettaja
+- Kehittäjänä toimii tiimin jäsenet
+- Tiimin jäsenillä ei ole kokemusta Scrum-masterina olemisesta, joten kiinnitämme huomiota projektin aikana toimiessamme myös Scrum-masterin näkökulmaan
 
 ### Päiväpalaveri
 
