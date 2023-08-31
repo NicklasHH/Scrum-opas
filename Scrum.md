@@ -45,6 +45,14 @@ Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty t�
 - Listan sisältö ja järjestys käydään säännöllisesti läpi
 - Ainoa lähde Scrum-tiimin työtehtäville
 
+
+##### Tiimimme kehitysjono tässä projektissa
+
+- Kehitysjonossa seuraavana toteutettava toiminnallisuus riippuu aina osin kyseisen viikon tehtävänannosta
+- Tiimi pyrkii Scrumin oppien mukaisesti myös pohtimaan mikä ominaisuus/toiminnallisuus tuottaisi eniten arvoa ja toteuttaa kehitysjonon sen mukaisesti
+
+
+
 ### Tyypillinen Scrum taulu
 
 |  Tehtävät  |     Ei aloitettu     |  Kesken   |                 Valmis                 |
