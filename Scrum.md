@@ -5,12 +5,17 @@ Scrum on laajasti ohjelmistokehityksessä käytetty projektinhallinnan viitekehy
 ### Scrum-syklin yleiskuvaus
 
 1. Kehitysjohjonosta valitaan tehtävät, eli sprintin tavoitteet
-
 2. Sprintti alkaa ja valitut tehtävät suoritetaan
-
 3. Tarkastetaan suoritetut tehtävät, vastaavatko ne tarpeita
-
 4. Arvoidaan asiat, mitä voitaisiin parantaa ja mitkä asiat sujuivat hyvin
+   <br>
+
+##### Meidän toimintasuunnitelma kurssin eli projektin aikana on toimia seuraavanlaisesti
+
+1. Kunkin sprintin tavoitteet muodostuvat opettajan antamista tehtävistä kyseisen viikon ajalle
+2. Sprintti alkaa ja valitut tehtävät suoritetaan
+3. Tarkastetaan yhdessä ennen palautusta, että tehtävät vastaavat tehtävänantoa
+4. Opettajalta saadaan palaute tehtästä, minkä lisäksi viikkokatselmuksessa arvioidaan tiimin omaa suoritusta ja kehitystarpeita
 
 ### Sprintit
 
@@ -29,7 +34,6 @@ Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty t�
 - Listan sisältö ja järjestys käydään säännöllisesti läpi
 - Ainoa lähde Scrum-tiimin työtehtäville
 
-
 ### Tyypillinen Scrum taulu
 
 |  Tehtävät  |     Ei aloitettu     |  Kesken   |                 Valmis                 |
@@ -45,17 +49,20 @@ Kehitusjonon tilannetta voidaan seurata Scrum taululla ja tilanne päivitetään
 Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
 **S**crum-master
+
 - Vastuussa Scrum-tiimin toiminnasta ja tehokkuudesta
 - Toimii ns. oppaana scrum-tiimille, auttaen kaikkia ymmärtämään Scrumin teoriaa ja käytäntöä
 - Suunnittelee, perehdyttää ja ohjeistaa
 - Kommunikoi tuoteomistajan kanssa, auttaa tiimiä ja tuoteomistajaa ymmärtämään toisiaan
 
 **T**iimi
+
 - Keskeisin osa Scrumia
 - Pieni joukko ihmisiä, joka koostuu yhdestä Scrum-masterista, yhdestä tuoteomistajasta ja useasta kehittäjästä
 - Vastuussa tuotteeseen liittyvistä asioista kuten yhteistyö, ylläpito, testaus, tiedonhaku ja kehitys
 
 **T**uoteomistaja
+
 - Tuoteomistajana on kurssin aikana opettaja
 
 ### Päiväpalaveri
