@@ -95,6 +95,13 @@ Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
 Päiväpalaverit ovat joka päivä samaan aikaan samassa paikassa. Näin varmistetaan projektin eteneminen, kommunikaatio sekä kokouksien sisällyttäminen automaationa projektiin.
 
+##### Palaverit tiimissämme
+
+- Koska kyseessä on opiskelutoteutus, niin emme pidä palaveria päivittäin
+- Lyhyt palaveri pidetään joka oppitunnin jälkeen tiistaisin
+- Lyhyen palaverin aikana sovimme, että tarvitaanko useampi palaveri kyseisellä viikolla
+
+
 ### Miksi Scrum toimii?
 
 - Sprinttien ansiosta kehityksessä on aina projektin tärkeimmät osat
