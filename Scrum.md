@@ -56,7 +56,6 @@ Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 - Vastuussa tuotteeseen liittyvistä asioista kuten yhteistyö, ylläpito, testaus, tiedonhaku ja kehitys
 
 **T**uoteomistaja
-- abc
 - Tuoteomistajana on kurssin aikana opettaja
 
 ### Päiväpalaveri
