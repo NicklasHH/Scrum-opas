@@ -1,4 +1,4 @@
-# Scrum-ohje
+# Scrum-ohjeistus
 
 Scrum on laajasti ohjelmistokehityksessä käytetty projektinhallinnan viitekehys, joka auttaa tiimiä suoriutumaan projekteista sopeutuvasti, nopeasti ja itseohjautuvasti.
 
