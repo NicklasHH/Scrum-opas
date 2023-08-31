@@ -44,15 +44,11 @@ Kehitusjonon tilannetta voidaan seurata Scrum taululla ja tilanne päivitetään
 
 Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
-<<<<<<< HEAD
 **S**crum-master
 - Vastuussa Scrum-tiimin toiminnasta ja tehokkuudesta
 - Toimii ns. oppaana scrum-tiimille, auttaen kaikkia ymmärtämään Scrumin teoriaa ja käytäntöä
 - Suunnittelee, perehdyttää ja ohjeistaa
 - Kommunikoi tuoteomistajan kanssa, auttaa tiimiä ja tuoteomistajaa ymmärtämään toisiaan
-
-=======
->>>>>>> 2a6c3f721ad2bc88995bd21a04899e4b015b4dbe
 
 **T**iimi
 - Keskeisin osa Scrumia
