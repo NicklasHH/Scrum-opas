@@ -27,6 +27,17 @@ Projekti jaetaan pienempiin osiin ja tehtäviin, joita kutsutaan sprinteiksi.
 
 - Sprinttejä suoritetaan niin kauan, kunnes projekti on saatu päätökseen tai aika/raha loppuvat projektilta
 
+
+##### Miten sprintit toimivat tiimissämme
+
+- Sprintit ovat lähtökohtaisesti yhden viikon mittaisia
+
+- Scrum-tiiminä suunnittelemme sprintit sekä ohjelmoimme ja testaamme yhdessä
+
+- Scrum-tiimi tekee tiivistä yhteistyötä, kommunikoi aktiivisesti jotta kaikki pysyvät kärryillä ja ongelmatilanteisiin voidaan reagoida mahdollisimman nopeasti
+
+- Sprinttejä suoritetaan kunnes kurssin lopputyö saadaan valmiiksi tai kurssi päättyy
+
 ### Kehitysjono
 
 Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty tärkeysjärjestykseen, joten sitä seuraamalla tärkeimmät asiat valmistuvat ensimmäisenä.
