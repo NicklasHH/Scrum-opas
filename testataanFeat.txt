@@ -1,0 +1,13 @@
+
+
+Feature-haaran luominen ja vaihto: (ilmeisesti masterissa, näin ainakin itse tein)
+
+$ git checkout -b feat123 (git checkout -b featTest)
+
+$ notepad testataanFeat.txt
+
+Feature-haaran yhdistäminen: 
+
+- Tee commit
+- Siirry develop-haaraan : git checkout develop
+- Yhdistä: git merge --no-ff feat123 (git merge --no-ff featTest)
