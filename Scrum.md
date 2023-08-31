@@ -2,6 +2,8 @@
 
 ### Scrum-syklin yleiskuvaus
 
+Scrum-menetelmän yleiskuvaus.
+
 ### Sprintit
 
 ### Työjonot
