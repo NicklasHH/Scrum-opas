@@ -51,6 +51,7 @@ Scrum määrittelee selkeästi eri **työroolit**, joita ovat:
 
 **T**uoteomistaja
 - abc
+- Tuoteomistajana on kurssin aikana opettaja
 
 ### Päiväpalaveri
 
