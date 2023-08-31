@@ -29,6 +29,8 @@ Lista sisältää toiminnallisuuksia, joita asiakas haluaa ja on järjestetty t�
 - Listan sisältö ja järjestys käydään säännöllisesti läpi
 - Ainoa lähde Scrum-tiimin työtehtäville
 
+-
+
 ### Tyypillinen Scrum taulu
 
 |  Tehtävät  |     Ei aloitettu     |  Kesken   |                 Valmis                 |
