@@ -13,3 +13,4 @@ Scrum-menetelmän yleiskuvaus.
 ### Kokoukset
 
 ### Miksi Scrum toimii?
+Moikka!
